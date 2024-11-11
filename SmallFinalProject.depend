@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1713929721 source:c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\statedata.cpp
+	"StateData.h"
+
+1712797568 c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\statedata.h
+	<string>
+	<vector>
+
+1714408383 source:c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<map>
+	"StateData.h"
+
+1713920672 source:c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\gui.cpp
+	"Interface.h"
+	<iostream>
+	<GL/freeglut.h>
+	"StateData.h"
+	<algorithm>
+
+1713920959 c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\interface.h
+
+1713921172 c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\quiz.h
+	<vector>
+	<string>
+	<map>
+	<algorithm>
+	"StateData.h"
+
+1712787207 c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalproject\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1714408383 source:c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalprojectswe1final\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<map>
+	"StateData.h"
+
+1712797568 c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalprojectswe1final\statedata.h
+	<string>
+	<vector>
+
+1713929721 source:c:\users\shayl\onedrive\desktop\hwgui\graphics\smallfinalprojectswe1final\statedata.cpp
+	"StateData.h"
+
+1714423579 source:c:\users\shayl\onedrive\desktop\smallfinalprojectswe1final\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<map>
+	"StateData.h"
+
+1712797568 c:\users\shayl\onedrive\desktop\smallfinalprojectswe1final\statedata.h
+	<string>
+	<vector>
+
+1713929721 source:c:\users\shayl\onedrive\desktop\smallfinalprojectswe1final\statedata.cpp
+	"StateData.h"
+
